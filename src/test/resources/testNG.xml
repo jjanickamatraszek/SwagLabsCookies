@@ -3,6 +3,7 @@
 <suite name="Default Suite" parallel="classes">
     <test name="Default Test">
         <classes>
+            <class name="CookiesTest"/>
         </classes>
     </test>
 </suite>
